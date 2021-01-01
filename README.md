@@ -1,4 +1,4 @@
-# TEST-REPO
+# CSGO
 My personal CS:GO config(s).
 
 - - -
