@@ -9,3 +9,9 @@ My personal CS:GO config(s).
 - Optimal Audio Settings: [https://steamcommunity.com/sharedfiles/filedetails/?l=finnish&id=703059693](https://steamcommunity.com/sharedfiles/filedetails/?l=finnish&id=703059693).
 
 - - -
+
+#### Sensitivity related
+- eDPI Calculator: [https://delivator.github.io/csgo-edpi-calculator/](https://delivator.github.io/csgo-edpi-calculator/)
+- Mouse DPI Calculator: [https://www.easycalculation.com/other/dpi-calculator.php](https://www.easycalculation.com/other/dpi-calculator.php)
+
+- - -
